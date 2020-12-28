@@ -1,2 +1,4 @@
+image:
+  file: .gitpod.Dockerfile
 tasks:
   - command: python3 -m pip install --upgrade pip && make deps
