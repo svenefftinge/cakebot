@@ -1,4 +1,2 @@
-image: rdilpickle/better-wsfull:latest
-
 tasks:
   - command: python3 -m pip install --upgrade pip && make deps
